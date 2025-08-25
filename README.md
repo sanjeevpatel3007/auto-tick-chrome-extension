@@ -2,8 +2,8 @@
 
 A simple and efficient Chrome extension that automatically ticks checkboxes on any webpage. Perfect for quickly filling out forms, surveys, or any page with multiple checkboxes.
 
-**[IMAGE PLACEHOLDER 1]**
-*Prompt: "A modern Chrome browser extension icon with a checkbox being automatically ticked, clean design with blue and white colors, minimalist style"*
+**[IMAGE]**
+<img width="1033" height="329" alt="image" src="https://github.com/user-attachments/assets/0ad0e6e9-bc0b-4392-94c2-18d7402994e3" />
 
 ## 🚀 Open Source Project
 
@@ -25,8 +25,9 @@ This is a **completely open-source** Chrome extension that anyone can use, modif
 - 🔄 **Real-time Updates**: Changes take effect immediately when you visit new pages
 - 🎯 **Smart Detection**: Only ticks unchecked boxes to avoid conflicts
 
-**[IMAGE PLACEHOLDER 2]**
-*Prompt: "Screenshot showing the Chrome extensions page with Developer mode enabled and the Load unpacked button highlighted, clean interface"*
+**[IMAGE]**
+<img width="1919" height="211" alt="image" src="https://github.com/user-attachments/assets/3b5e9acd-b4c8-42d8-8905-db045d9ed54e" />
+
 
 ## Installation
 
@@ -62,8 +63,9 @@ This is a **completely open-source** Chrome extension that anyone can use, modif
 
 *This extension will be available on the Chrome Web Store soon for easier installation.*
 
-**[IMAGE PLACEHOLDER 3]**
-*Prompt: "Screenshot of the Auto Tick extension popup showing the enable/disable toggle checkbox, clean modern UI with blue accent colors"*
+**[IMAGE]**
+<img width="1006" height="321" alt="image" src="https://github.com/user-attachments/assets/1e4ddf61-d893-4959-9dc2-445e72080343" />
+
 
 ## How to Use
 
@@ -171,8 +173,8 @@ auto-tick-chrome-extension/
 - 📡 **No Network Requests**: The extension doesn't send any data to external servers
 - 🔐 **Open Source**: All code is publicly available for review
 
-**[IMAGE PLACEHOLDER 4]**
-*Prompt: "GitHub collaboration illustration showing multiple developers working together on code, with pull request and fork icons, modern tech style"*
+**[IMAGE]**
+<img width="1143" height="320" alt="image" src="https://github.com/user-attachments/assets/8d0642b5-13a7-41b4-8444-d50c4b99b262" />
 
 ## 🤝 Contributing
 
@@ -208,8 +210,8 @@ If you're new to contributing, here are some great starting points:
 
 We're committed to providing a welcoming and inclusive environment for all contributors. Please be respectful and constructive in your interactions.
 
-**[IMAGE PLACEHOLDER 5]**
-*Prompt: "Support and community illustration showing people helping each other with tech support, chat bubbles, and question marks, friendly and helpful atmosphere"*
+**[IMAGE **
+<img width="1182" height="337" alt="image" src="https://github.com/user-attachments/assets/41260c53-7caa-4e76-ad48-724adbf090fc" />
 
 ## 🆘 Support & Community
 
@@ -229,9 +231,6 @@ We're here to help! If you encounter any issues or have questions, don't hesitat
 - **Share Knowledge**: Share your experiences and tips with the community
 - **Report Issues**: Help improve the extension by reporting bugs
 - **Suggest Features**: Your ideas can make the extension better for everyone
-
-**[IMAGE PLACEHOLDER 6]**
-*Prompt: "Open source license illustration showing the MIT license symbol, open hands releasing code, freedom and sharing concept, modern tech style"*
 
 ## 📄 License
 
