@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Auto Tick</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      padding: 15px; 
+      width: 250px; 
+      margin: 0;
+    }
+    h3 { 
+      margin: 0 0 15px 0; 
+      color: #333;
+    }
+    label { 
+      display: flex; 
+      align-items: center; 
+      gap: 10px; 
+      cursor: pointer;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+    input[type="checkbox"] {
+      transform: scale(1.2);
+    }
+    .description {
+      font-size: 12px;
+      color: #666;
+      margin-top: 10px;
+      line-height: 1.3;
+    }
+  </style>
+</head>
+<body>
+  <h3>Auto Tick Extension</h3>
+  <label>
+    <input type="checkbox" id="toggleTick"> Enable Auto Tick
+  </label>
+  <div class="description">
+    When enabled, automatically checks all checkboxes on any webpage you visit.
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
